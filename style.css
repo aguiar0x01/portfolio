@@ -131,6 +131,14 @@ header {
     box-shadow: 1px 1px 10px var(--vivid-blue);
 }
 
+.card-description {
+    text-align: left;
+    position: absolute;
+    top: calc(85px + 20px);
+    left: 35px;
+    right: 35px;
+}
+
 .card p {
     font-weight: 700;
 }

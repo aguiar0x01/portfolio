@@ -1,26 +1,32 @@
 [
     {
         "title": "STOLLER | BRQ",
+        "description": "Stoller description",
         "tags": ["APEX", "LWC", "FULL-STACK"]
     },
     {
         "title": "MOOVE | BRQ",
+        "description": "MOOVE description",
         "tags": ["APEX", "LWC", "B2B", "FULL-STACK"]
     },
         {
         "title": "OUROFINO | BRQ",
+        "description": "OUROFINO description",
         "tags": ["APEX", "LWC", "VISUALFORCE", "FULL-STACK"]
     },
     {
         "title": "CATHO | BRQ",
+        "description": "CATHO description",
         "tags": ["APEX", "SOQL", "BACK-END"]
     },
     {
         "title": "GRUPO ALDO | BRQ",
+        "description": "GRUPO ALDO description",
         "tags": ["APEX", "SOQL", "BACK-END"]
     },
     {
         "title": "ATEMDO AQUI | FREELA",
+        "description": "ATEMDO AQUI description",
         "tags": ["FLUTTER", "FIREBASE", "MOBILE"]
     }
 ]

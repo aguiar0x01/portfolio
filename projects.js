@@ -10,8 +10,8 @@ async function getProjectData() {
 }
 
 export async function createProjectCardItems() {
-    let projects = await getProjectData();
     let cards = document.getElementById('cards');
+    let projects = await getProjectData();
 
     projects.forEach(project => {
         let card = document.createElement('div');
@@ -39,6 +39,12 @@ export async function createProjectCardItems() {
             tags.appendChild(tag);
         });
         rectangle.appendChild(tags);
+
+        let cardItemDescription = document.createElement('p');
+        cardItemDescription.className = 'card-description';
+        cardItemDescription.textContent = project.description;
+
+        card.appendChild(cardItemDescription);
 
         card.appendChild(rectangle);
         cards.appendChild(card);
