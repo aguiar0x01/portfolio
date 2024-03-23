@@ -1,0 +1,26 @@
+[
+    {
+        "title": "OUROFINO | BRQ",
+        "tags": ["APEX", "LWC", "VISUALFORCE", "FULL-STACK"]
+    },
+    {
+        "title": "STOLLER | BRQ",
+        "tags": ["APEX", "LWC", "FULL-STACK"]
+    },
+    {
+        "title": "MOOVE | BRQ",
+        "tags": ["APEX", "LWC", "B2B", "FULL-STACK"]
+    },
+    {
+        "title": "CATHO | BRQ",
+        "tags": ["APEX", "SOQL", "BACK-END"]
+    },
+    {
+        "title": "GRUPO ALDO | BRQ",
+        "tags": ["APEX", "SOQL", "BACK-END"]
+    },
+    {
+        "title": "ATEMDO AQUI | FREELA",
+        "tags": ["FLUTTER", "FIREBASE", "MOBILE"]
+    }
+]
