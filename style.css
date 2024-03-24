@@ -111,7 +111,6 @@ header {
 .cards {
     display: flex;
     position: relative;
-    /* justify-content: start; */
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
@@ -132,6 +131,7 @@ header {
 }
 
 .card-description {
+    color: var(--grey-white);
     text-align: left;
     position: absolute;
     top: calc(85px + 20px);
@@ -296,7 +296,6 @@ h2 {
         height: 640px;
     }
 
-    /* Teste (text) */
     .projects {
         margin-top: 200px;
     }
