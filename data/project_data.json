@@ -1,32 +1,32 @@
 [
     {
         "title": "STOLLER | BRQ",
-        "description": "Stoller description",
+        "description": "Análise e desenvolvimento de aplicações LWC em ecossistema Salesforce, em cooperação com sistemas externos, como SAP, por meio de integração REST/SOAP, processamento assíncrono em massa, dentre outros.",
         "tags": ["APEX", "LWC", "FULL-STACK"]
     },
     {
         "title": "MOOVE | BRQ",
-        "description": "MOOVE description",
+        "description": "Por meio da nuvem Salesforce Commerce, realização de análise, desenvolvimento e manutenção de sistema B2B sob Apex, SOQL e LWC.",
         "tags": ["APEX", "LWC", "B2B", "FULL-STACK"]
     },
         {
         "title": "OUROFINO | BRQ",
-        "description": "OUROFINO description",
+        "description": "Desenvolvimento e manutenção de aplicações LWC sob Salesforce Platform Cloud. Implementação de Processamento em Lote e integrações REST/SOAP com Apex e SOQL.",
         "tags": ["APEX", "LWC", "VISUALFORCE", "FULL-STACK"]
     },
     {
         "title": "CATHO | BRQ",
-        "description": "CATHO description",
+        "description": "Análise, refatoração e implementação de classes de testes Apex em ambiente Salesforce.",
         "tags": ["APEX", "SOQL", "BACK-END"]
     },
     {
         "title": "GRUPO ALDO | BRQ",
-        "description": "GRUPO ALDO description",
+        "description": "Implementação de integração Inbound/REST em ambiente Salesforce, com Apex e SOQL, dentre outras atividades.",
         "tags": ["APEX", "SOQL", "BACK-END"]
     },
     {
         "title": "ATEMDO AQUI | FREELA",
-        "description": "ATEMDO AQUI description",
-        "tags": ["FLUTTER", "FIREBASE", "MOBILE"]
+        "description": "Aplicação Android como Marketplace. Desenvolvimento em todas as etapas, a saber: requisitos, concepção de serviço, UX, front-end, back-end, banco de dados e implantação via Google Play Store.",
+        "tags": ["FLUTTER", "FIREBASE", "FULL-CYCLE"]
     }
 ]
