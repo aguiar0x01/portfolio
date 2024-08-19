@@ -255,6 +255,10 @@ header {
 }
 
 @media (max-width: 739px) {
+    .card {
+        margin-right: 0;
+    }
+
     .home-background {
         min-height: 570px;
     }
@@ -294,6 +298,10 @@ header {
 }
 
 @media (min-width: 740px) and (max-width: 799px) {
+    .card {
+        margin-right: 0;
+    }
+
     .home-background {
         min-height: 610px;
     }
