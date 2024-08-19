@@ -229,7 +229,7 @@ header {
     border-radius: 15px;
     font-size: 1.2rem;
     min-width: 370px;
-    margin-top: 10px;
+    margin-top: 4px;
     color: var(--white);
     z-index: 1;
 }
@@ -259,6 +259,10 @@ header {
         margin-right: 0;
     }
 
+    .container .hey {
+        margin-top: 20px;
+    }
+
     .home-background {
         min-height: 570px;
         background-position: center;
@@ -283,7 +287,6 @@ header {
     
     .container .hey {
         font-size: 1rem;
-        color: var(--white);
     }
     
     .container .montserrat-high {
@@ -302,6 +305,10 @@ header {
 @media (min-width: 740px) and (max-width: 799px) {
     .card {
         margin-right: 0;
+    }
+
+    .container .hey {
+        margin-top: 20px;
     }
 
     .home-background {
@@ -351,7 +358,6 @@ header {
     
     .container .hey {
         font-size: 1rem;
-        color: var(--white);
     }
     
     .container .montserrat-high {
