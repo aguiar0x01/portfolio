@@ -259,21 +259,14 @@ header {
         min-height: 590px;
     }
 
-    .animation {
-        margin-right: 30px;
-    }
-
-    .container div {
-        margin-left: 30px;
-    }
-
     .project-title {
-        margin-top: 35px;
+        margin-top: 30px;
         margin-bottom: 35px;
         font-size: 1.5rem;
     }
 
     .container h2 {
+        margin-left: 35px;
         font-size: 1.2rem;
         min-width: 320px;
     }
