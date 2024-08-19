@@ -254,9 +254,13 @@ header {
     color: var(--white);
 }
 
-@media (max-width: 799px) {
+@media (max-width: 739px) {
     .home-background {
-        min-height: 590px;
+        min-height: 570px;
+    }
+
+    .animation {
+        margin-top: -20px;
     }
 
     .project-title {
@@ -286,6 +290,26 @@ header {
 
     .contact-button {
         min-width: 250px;
+    }
+}
+
+@media (min-width: 740px) and (max-width: 799px) {
+    .home-background {
+        min-height: 610px;
+    }
+
+    .animation {
+        margin-right: 30px;
+    }
+
+    .container div {
+        margin-left: 30px;
+    }
+
+    .project-title {
+        margin-top: 30px;
+        margin-bottom: 35px;
+        font-size: 1.5rem;
     }
 }
 
